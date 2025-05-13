@@ -7,4 +7,7 @@
     - name: Print debug message
       debug:
         msg: Hello, world!
+<<<<<<< HEAD
         
+=======
+>>>>>>> 9d3ee17ad36dd3c39a3a372d50cd23211c577074
